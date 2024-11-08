@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imagens/imagen_01.jpg" alt="Imagem" />
+</p>
+
 # Projeto de Detecção de Fraude em Transações Financeiras
 ## Descrição do Projeto
 Este projeto utiliza o conjunto de dados "Synthetic Financial Datasets for Fraud Detection" disponível no Kaggle, com o objetivo de simular transações financeiras legítimas e fraudulentas. O desafio principal é criar um modelo capaz de classificar corretamente essas transações com a menor taxa de erro possível, visando melhorar a experiência do cliente e reduzir prejuízos financeiros para as instituições financeiras.
