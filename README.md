@@ -32,6 +32,7 @@ O objetivo deste projeto é desenvolver um modelo preditivo capaz de identificar
 - Keras
   
  **Ambiente de Desenvolvimento**:
+- Jupyter Notebook
 - Vscode
 
 
